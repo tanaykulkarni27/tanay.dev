@@ -1,0 +1,90 @@
+Create a modern static portfolio website for a software developer.
+
+Requirements:
+
+Tech Stack:
+- Use HTML, TailwindCSS, and JavaScript (no backend).
+- Responsive design (mobile, tablet, desktop).
+- Clean, modern UI with smooth scrolling and basic animations.
+- Use a professional color palette and readable typography.
+
+Website Sections:
+
+1. Hero Section
+- Display my profile photo.
+- Show my name and title: "Software Developer".
+- Short tagline like: "Building scalable web applications and trading systems".
+- Add buttons: "View Projects" and "Contact Me".
+
+2. About Me
+- Short introduction paragraph about me.
+- Mention that I am a passionate developer working with modern technologies.
+- Include my interests in web development, backend systems, and algorithmic trading.
+
+3. Skills Section
+Display skills in categorized cards:
+
+Frontend
+- React
+- Next.js
+- HTML
+- TailwindCSS
+- JavaScript
+
+Backend
+- Node.js
+- Express
+- Python
+- Java [spring boot]
+
+Database
+- MongoDB
+- MySQL
+
+Tools
+- Git
+- Docker
+- Codex
+
+4. Projects Section
+Create project cards with:
+- Project title
+- Short description
+- Tech stack used
+- demo link
+
+Each card should have hover effects.
+
+5. Education Section
+Display education timeline with:
+- Degree Computer engineering : Savitribai phule university , 2023-2026
+- Professional Development	2022 - 2023 [Independent Learning]
+- Diploma Computer engineering : Maharashtra State board of technical education [MSBTE], 2019-2022
+
+6. Contact Section
+Include:
+- Email : 1002kulkarnitp@gmail.com
+- LinkedIn : https://www.linkedin.com/in/tanay-kulkarni-b499081b6
+- GitHub : https://github.com/tanaykulkarni27
+- Simple contact form (UI only).
+
+7. Footer
+Include copyright and social links.
+
+Design Requirements:
+- Smooth scrolling navigation bar.
+- Sticky navbar.
+- Project cards with modern shadows.
+- Minimal but professional layout.
+- Use icons for skills and social links.
+
+Folder Structure:
+/
+ index.html
+ script.js
+ assets/
+   images/
+   icons/
+
+Code should be clean, well structured, and commented.
+Use placeholder text and placeholder images where needed so I can easily replace them later.
